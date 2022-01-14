@@ -1,0 +1,2 @@
+Lookup count in A: 1000
+Lookup count in B: 14
